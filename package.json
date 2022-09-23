@@ -1,0 +1,15 @@
+{
+	"name": "nodejs-test",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "mocha src/test/formTest.js --timeout 10000"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"mocha": "^10.0.0",
+		"selenium-webdriver": "^4.4.0"
+	}
+}
