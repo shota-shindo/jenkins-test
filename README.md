@@ -1,2 +1,2 @@
 jenkinsのテスト用
-test2
+test
